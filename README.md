@@ -1,1 +1,1 @@
-# Panda for DataScience
+# Pandas for DataScience
